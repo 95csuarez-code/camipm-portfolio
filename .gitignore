@@ -9,9 +9,6 @@ pnpm-debug.log*
 # Dependencies
 node_modules
 
-# Build output
-dist
-
 # Environment files
 .env
 .env.*
